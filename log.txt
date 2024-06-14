@@ -1,0 +1,98 @@
+[13-06-2024 22:27:56] TRACE - Iniciou loop1
+[13-06-2024 22:27:56] TRACE - Iniciou loop2
+[13-06-2024 22:28:02] TRACE - Perfil da empresa selecionado: 2
+[13-06-2024 22:28:02] TRACE - Completou loop2
+[13-06-2024 22:28:02] TRACE - Iniciou loop3
+[13-06-2024 22:28:07] TRACE - Entrada 'confirmacao': s
+[13-06-2024 22:28:07] TRACE - Completou loop1
+[13-06-2024 22:28:07] TRACE - Completou loop3
+[13-06-2024 22:28:07] TRACE - Iniciou loop4
+[13-06-2024 22:28:10] TRACE - Entrada 'valReceitaBruta' (1): 123321.0
+[13-06-2024 22:28:10] TRACE - Completou loop4
+[13-06-2024 22:28:10] TRACE - Iniciou loop4
+[13-06-2024 22:28:10] TRACE - Entrada 'valReceitaBruta' (2): 123123.0
+[13-06-2024 22:28:10] TRACE - Completou loop4
+[13-06-2024 22:28:10] TRACE - Iniciou loop4
+[13-06-2024 22:28:11] TRACE - Entrada 'valReceitaBruta' (3): 21312.0
+[13-06-2024 22:28:11] TRACE - Completou loop4
+[13-06-2024 22:28:11] TRACE - Iniciou loop4
+[13-06-2024 22:28:11] TRACE - Entrada 'valReceitaBruta' (4): 312.0
+[13-06-2024 22:28:11] TRACE - Completou loop4
+[13-06-2024 22:28:11] TRACE - Iniciou loop4
+[13-06-2024 22:28:11] TRACE - Entrada 'valReceitaBruta' (5): 321.0
+[13-06-2024 22:28:11] TRACE - Completou loop4
+[13-06-2024 22:28:11] TRACE - Iniciou loop4
+[13-06-2024 22:28:12] TRACE - Entrada 'valReceitaBruta' (6): 312.0
+[13-06-2024 22:28:12] TRACE - Completou loop4
+[13-06-2024 22:28:12] TRACE - Iniciou loop4
+[13-06-2024 22:28:12] TRACE - Entrada 'valReceitaBruta' (7): 3213213.0
+[13-06-2024 22:28:12] TRACE - Completou loop4
+[13-06-2024 22:28:12] TRACE - Iniciou loop4
+[13-06-2024 22:28:13] TRACE - Entrada 'valReceitaBruta' (8): 2133213.0
+[13-06-2024 22:28:13] TRACE - Completou loop4
+[13-06-2024 22:28:13] TRACE - Iniciou loop4
+[13-06-2024 22:28:13] TRACE - Entrada 'valReceitaBruta' (9): 1.2312312E7
+[13-06-2024 22:28:13] TRACE - Completou loop4
+[13-06-2024 22:28:13] TRACE - Iniciou loop4
+[13-06-2024 22:28:14] TRACE - Entrada 'valReceitaBruta' (10): 312321.0
+[13-06-2024 22:28:14] TRACE - Completou loop4
+[13-06-2024 22:28:14] TRACE - Iniciou loop4
+[13-06-2024 22:28:15] TRACE - Entrada 'valReceitaBruta' (11): 312312.0
+[13-06-2024 22:28:15] TRACE - Completou loop4
+[13-06-2024 22:28:15] TRACE - Iniciou loop4
+[13-06-2024 22:28:16] TRACE - Entrada 'valReceitaBruta' (12): 123123.0
+[13-06-2024 22:28:16] TRACE - Completou loop4
+[13-06-2024 22:28:33] TRACE - Iniciou loop1
+[13-06-2024 22:28:33] TRACE - Iniciou loop2
+[13-06-2024 22:28:35] ERROR - Opção INVÁLIDA escolhida: 6
+[13-06-2024 22:28:35] TRACE - Iniciou loop2
+[13-06-2024 22:28:42] ERROR - Opção INVÁLIDA escolhida: 44
+[13-06-2024 22:28:42] TRACE - Iniciou loop2
+[13-06-2024 22:28:42] TRACE - Perfil da empresa selecionado: 3
+[13-06-2024 22:28:42] TRACE - Completou loop2
+[13-06-2024 22:28:42] TRACE - Iniciou loop3
+[13-06-2024 22:28:45] TRACE - Entrada 'confirmacao': s
+[13-06-2024 22:28:45] TRACE - Completou loop1
+[13-06-2024 22:28:45] TRACE - Completou loop3
+[13-06-2024 22:28:45] TRACE - Iniciou loop4
+[13-06-2024 22:28:48] ERROR - InputMismatchException: null
+[13-06-2024 22:28:48] ERROR - Entrada INVÁLIDA para 'valReceitaBruta' (1): 0.0
+[13-06-2024 22:28:48] TRACE - Iniciou loop4
+[13-06-2024 22:28:51] TRACE - Entrada 'valReceitaBruta' (1): 2132.0
+[13-06-2024 22:28:51] TRACE - Completou loop4
+[13-06-2024 22:28:51] TRACE - Iniciou loop4
+[13-06-2024 22:28:52] TRACE - Entrada 'valReceitaBruta' (2): 1231233.0
+[13-06-2024 22:28:52] TRACE - Completou loop4
+[13-06-2024 22:28:52] TRACE - Iniciou loop4
+[13-06-2024 22:28:53] TRACE - Entrada 'valReceitaBruta' (3): 1.2321312E7
+[13-06-2024 22:28:53] TRACE - Completou loop4
+[13-06-2024 22:28:53] TRACE - Iniciou loop4
+[13-06-2024 22:28:54] TRACE - Entrada 'valReceitaBruta' (4): 2.13123213E8
+[13-06-2024 22:28:54] TRACE - Completou loop4
+[13-06-2024 22:28:54] TRACE - Iniciou loop4
+[13-06-2024 22:28:55] TRACE - Entrada 'valReceitaBruta' (5): 2.13213213E8
+[13-06-2024 22:28:55] TRACE - Completou loop4
+[13-06-2024 22:28:55] TRACE - Iniciou loop4
+[13-06-2024 22:28:55] TRACE - Entrada 'valReceitaBruta' (6): 2131.0
+[13-06-2024 22:28:55] TRACE - Completou loop4
+[13-06-2024 22:28:55] TRACE - Iniciou loop4
+[13-06-2024 22:28:55] TRACE - Entrada 'valReceitaBruta' (7): 321.0
+[13-06-2024 22:28:55] TRACE - Completou loop4
+[13-06-2024 22:28:55] TRACE - Iniciou loop4
+[13-06-2024 22:28:55] TRACE - Entrada 'valReceitaBruta' (8): 31.0
+[13-06-2024 22:28:55] TRACE - Completou loop4
+[13-06-2024 22:28:55] TRACE - Iniciou loop4
+[13-06-2024 22:28:56] TRACE - Entrada 'valReceitaBruta' (9): 2.0
+[13-06-2024 22:28:56] TRACE - Completou loop4
+[13-06-2024 22:28:56] TRACE - Iniciou loop4
+[13-06-2024 22:28:57] TRACE - Entrada 'valReceitaBruta' (10): 2323.0
+[13-06-2024 22:28:57] TRACE - Completou loop4
+[13-06-2024 22:28:57] TRACE - Iniciou loop4
+[13-06-2024 22:28:58] TRACE - Entrada 'valReceitaBruta' (11): 12.0
+[13-06-2024 22:28:58] TRACE - Completou loop4
+[13-06-2024 22:28:58] TRACE - Iniciou loop4
+[13-06-2024 22:29:01] ERROR - InputMismatchException: null
+[13-06-2024 22:29:01] ERROR - Entrada INVÁLIDA para 'valReceitaBruta' (12): 0.0
+[13-06-2024 22:29:01] TRACE - Iniciou loop4
+[13-06-2024 22:29:05] TRACE - Entrada 'valReceitaBruta' (12): 213.0
+[13-06-2024 22:29:05] TRACE - Completou loop4
