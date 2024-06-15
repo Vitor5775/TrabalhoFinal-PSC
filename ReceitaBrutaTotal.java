@@ -1,4 +1,6 @@
+package Processos.Calculos;
 
+import Processos.Calculo;
 
 public class ReceitaBrutaTotal extends Calculo {
     private double receitaBrutaTotal;
