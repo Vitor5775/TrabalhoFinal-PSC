@@ -1,4 +1,7 @@
-
+import Processos.Calculos.ReceitaBrutaTotal;
+import Processos.Calculos.SimplesNacional;
+import Processos.Perfis.AliquotaEfetiva;
+import Processos.Perfis.ValorADeduzir;
 
 public class Estacao {
     ReceitaBrutaTotal rbt = new ReceitaBrutaTotal();
