@@ -1,4 +1,8 @@
 # TrabalhoFinal-PSC
+
+Integrantes do projeto : 
+https://github.com/mateus3c
+
 Este trabalho apresenta uma ideia de software para ajudar microempreendedores e empreendedores, a gerenciarem suas respectivas impresas.
 
 
@@ -365,4 +369,4 @@ Imagem do diagrama de requisitos funcionais :
 
 
 
-No topo desta pagina voce pode encontrar o código deste trabalho.
+No topo desta pagina voce pode encontrar o protótipo do projeto.
