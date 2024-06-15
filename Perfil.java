@@ -1,3 +1,4 @@
+package Processos;
 
 public abstract class Perfil {
     protected double determinado;
