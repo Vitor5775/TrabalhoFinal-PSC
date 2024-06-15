@@ -1,4 +1,6 @@
+package Processos.Perfis;
 
+import Processos.Perfil;
 
 public class ValorADeduzir extends Perfil {
 
