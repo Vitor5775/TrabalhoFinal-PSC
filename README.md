@@ -335,8 +335,14 @@ capacidade de rastrear o tempo dos funcionários e calcular o pagamento de horas
 extras. 
 
 Referências: 
+
+
 • Software Requirements Specification: A How-To Guide for Project Managers 
+
+
 • How to Write an Exceptionally Clear Requirements Document 
+
+
 • A Guide to Writing Requirements Documents for Software Projects
 
 
